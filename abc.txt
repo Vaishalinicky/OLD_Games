@@ -1,4 +1,1 @@
-hello thi
-jjdfshsd
-s is my first git test.
-fhjdghjee
+hello this is my first git test.
